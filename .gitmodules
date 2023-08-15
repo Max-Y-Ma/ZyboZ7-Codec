@@ -1,0 +1,6 @@
+[submodule "ZyboZ7-Codec-SW"]
+	path = ZyboZ7-Codec-SW
+	url = https://github.com/Max-Y-Ma/ZyboZ7-Codec-SW.git
+[submodule "ZyboZ7-Codec-HW"]
+	path = ZyboZ7-Codec-HW
+	url = https://github.com/Max-Y-Ma/ZyboZ7-Codec-HW.git
